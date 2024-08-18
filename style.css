@@ -36,11 +36,12 @@ body::after {
     background-image: url("pics/logo.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
     transform: translateY(-20px);
     width: 100%;
     height: 250px;
     margin-right: 20px;
-
+    margin-top: 15px;
 }
 
 .subtitle{
