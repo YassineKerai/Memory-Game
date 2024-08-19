@@ -201,6 +201,7 @@ p a:hover{
     color: bisque;
     background-color: #3f24249a;
     transition: 1s;
+    margin-top: -20px;
 }
 
 .winner span {
